@@ -1,3 +1,5 @@
+##Update Version 2.5.1
+
 + Author: LTP
 + Youtube: Coding - Reshape Future
   Copy xin vui lòng giữ nguyên tên tác giả, cảm ơn!
@@ -20,4 +22,6 @@
    Vì cơ bản nên chưa được hoàn thiện các tính năng nâng cao
    Chưa có chế độ đi vào tường trở lại đầu kia
    Chưa có âm thanh
-   
+------------------------------------------------------------------
+Link video: https://youtu.be/QprIozYbYRo
+Link hướng dẫn: https://youtu.be/LjnlXK-BTTc
